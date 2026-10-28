@@ -4,7 +4,7 @@
    o que dispara a atualização: ao publicar uma versão nova, o navegador baixa
    tudo de novo e descarta o cache antigo na próxima abertura. */
 
-const VERSION = 'gymbabe-v2';
+const VERSION = 'gymbabe-v3';
 const ASSETS = [
   "./",
   "index.html",
